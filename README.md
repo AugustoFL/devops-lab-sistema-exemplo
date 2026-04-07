@@ -1,6 +1,0 @@
-"# DevOps Lab - Sistema Exemplo" 
-"" 
-"Reposit¢rio modelo da disciplina para pr ticas de DevOps e CI/CD." 
-"- Pasta src/: c¢digo-fonte" 
-"- Pasta tests/: testes automatizados" 
-"- Pasta docs/: arquivos de documenta‡Æo e identifica‡Æo dos grupos" 
